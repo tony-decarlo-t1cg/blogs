@@ -111,7 +111,7 @@ const App = () => (
 ```
 
 ## Benefits
-* Adapt's to the users device and environment, fast or slow
+* Adapt to the users device and environment, fast or slow
 * No longer need to define extra state variables such as `isFetching`
 * Optimize app performance without using an external library
 * Error handling
